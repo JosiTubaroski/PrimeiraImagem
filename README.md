@@ -11,6 +11,8 @@
 
 <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/03_Docker.png">
 
+2) Criar um arquivo <b>app.js</b> no diretório <b>c:\docker</b> 
+
 
    
 
