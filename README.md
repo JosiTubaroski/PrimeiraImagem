@@ -37,7 +37,7 @@ Pronto a primeira imagem do Docker está criada!
 
 3) Acessar o dockerdesktop e Conatiners
 
-   
+ <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/09_Container_Criado.png">  
    
 
 
