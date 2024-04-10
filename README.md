@@ -17,7 +17,8 @@
 
 3) Criar o arquivo Dockerfile
 
-   
+<img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/05_Criar_DockerFile.png">
+
    
 
 
