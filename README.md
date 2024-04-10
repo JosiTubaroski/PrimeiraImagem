@@ -7,6 +7,9 @@
 
 1) Abrir a IDE Visual Code e abrir o diretório criado c:\docker
 
+<img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/02_Acessar_IDE_Docker.png">
+   
+
    
 
   
