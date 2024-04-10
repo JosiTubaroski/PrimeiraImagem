@@ -23,6 +23,14 @@
 
 <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/06_Comando_CriarImagem.png">
 
+Pronto a primeira imagem do Docker está criada!
+
+# Verificando a imagem criada.
+
+1) Acessar o dockerdesktop e selecionar Images
+
+
+
 
    
    
