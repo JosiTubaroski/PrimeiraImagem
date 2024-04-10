@@ -29,6 +29,7 @@ Pronto a primeira imagem do Docker está criada!
 
 1) Acessar o dockerdesktop e selecionar Images
 
+<img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/07_Imagem_DockerDesktop.png">
 
 
 
