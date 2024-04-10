@@ -5,4 +5,8 @@
 
 <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/01_Diretorio.png">
 
+1) Abrir a IDE Visual Code e abrir o diretório criado c:\docker
+
+   
+
   
