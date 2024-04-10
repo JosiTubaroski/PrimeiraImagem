@@ -19,6 +19,11 @@
 
 <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/05_Criar_DockerFile.png">
 
+4) Após a criação do arquivo ir em CMD acessar o diretório do docker, e digitar o comando: <span style="color:purple">docker build -t hi-docker .</span>
+
+   
+   
+
    
 
 
