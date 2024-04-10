@@ -1,4 +1,4 @@
-# Criando primeira imagem com Docker
+# Criando primeira imagem com Docker, após a criação da imagem rodar dentro do container.
 
 - Após a instalação do Docker, para a criação da imagem vou utilizar a IDE Visual Code.
 - Vou criar um diretório na raiz c:\ chamado <b>docker</b>
@@ -30,6 +30,11 @@ Pronto a primeira imagem do Docker está criada!
 1) Acessar o dockerdesktop e selecionar Images
 
 <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/07_Imagem_DockerDesktop.png">
+
+2) Voltar para o terminal (Prompt de Comando) e digitar o comando:  docker run hi-docker
+
+   
+   
 
 
 
