@@ -33,6 +33,8 @@ Pronto a primeira imagem do Docker está criada!
 
 2) Voltar para o terminal (Prompt de Comando) e digitar o comando:  docker run hi-docker
 
+<img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/08_Hi_Docker.png">
+
    
    
 
