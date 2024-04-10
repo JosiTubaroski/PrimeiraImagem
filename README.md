@@ -14,6 +14,10 @@
 2) Criar um arquivo <b>app.js</b> no diretório <b>c:\docker</b>
 
 <img src="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/img/04_NodeJS.png">
+
+3) Criar o arquivo Dockerfile
+
+   
    
 
 
